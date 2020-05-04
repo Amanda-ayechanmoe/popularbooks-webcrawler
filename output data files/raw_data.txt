@@ -1,0 +1,313 @@
+blog
+So Good They Can't Ignore You
+The Power of Habit: Why We Do What We Do in Life and BusinessThe Spirit of Kaizen: Creating Lasting Excellence One Small Step at a Time: Creating Lasting Excellence One Small Step at a TimeBadass: Making Users AwesomeYouTube summary
+The 7 Habits of Highly Effective People: Powerful Lessons in Personal ChangeThe Effective Executive: The Definitive Guide to Getting the Right Things DoneGreat at Work: How Top Performers Do Less, Work Better, and Achieve MoreThe Checklist Manifesto: How to Get Things Right
+The Effective Engineer: How to Leverage Your Efforts In Software Engineering to Make a Disproportionate and Meaningful ImpactThe Pragmatic Programmer: From Journeyman to Master
+Code Complete: A Practical Handbook of Software Construction, Second EditionClean Code: A Handbook of Agile Software CraftsmanshipCode Simplicity: The Fundamentals of Software
+Facts and Fallacies of Software EngineeringRapid Development: Taming Wild Software SchedulesMaking Software: What Really Works, and Why We Believe It
+Measure What Matters: How Google, Bono, and the Gates Foundation Rock the World with OKRsTurn the Ship Around!: A True Story of Turning Followers into Leaders
+Rapid Development: Taming Wild Software SchedulesEssential Scrum: A Practical Guide to the Most Popular Agile ProcessThe Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful BusinessesThe Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win
+The Principles of Product Development Flow: Second Generation Lean Product DevelopmentGoldratt's Theory of Constraints: A Systems Approach to Continuous Improvement
+Starting to Unit Test: Not as Hard as You ThinkWorking Effectively with Unit TestsWorking Effectively with Legacy Code
+Data Analysis with Open Source Tools: A Hands-On Guide for Programmers and Data ScientistsStatistics For DummiesStatistics II for Dummies
+Don't Make Me Think, Revisited: A Common Sense Approach to Web UsabilityRocket Surgery Made Easy: The Do-It-Yourself Guide to Finding and Fixing Usability Problems
+So Good They Can't Ignore YouThe Power of Habit: Why We Do What We Do in Life and BusinessThe Spirit of Kaizen: Creating Lasting Excellence One Small Step at a Time: Creating Lasting Excellence One Small Step at a TimeBadass: Making Users AwesomeYouTube summaryThe 7 Habits of Highly Effective People: Powerful Lessons in Personal ChangeThe Effective Executive: The Definitive Guide to Getting the Right Things DoneGreat at Work: How Top Performers Do Less, Work Better, and Achieve MoreThe Checklist Manifesto: How to Get Things RightThe Effective Engineer: How to Leverage Your Efforts In Software Engineering to Make a Disproportionate and Meaningful ImpactThe Pragmatic Programmer: From Journeyman to MasterCode Complete: A Practical Handbook of Software Construction, Second EditionClean Code: A Handbook of Agile Software CraftsmanshipCode Simplicity: The Fundamentals of SoftwareFacts and Fallacies of Software EngineeringRapid Development: Taming Wild Software SchedulesMaking Software: What Really Works, and Why We Believe ItMeasure What Matters: How Google, Bono, and the Gates Foundation Rock the World with OKRsTurn the Ship Around!: A True Story of Turning Followers into LeadersRapid Development: Taming Wild Software SchedulesEssential Scrum: A Practical Guide to the Most Popular Agile ProcessThe Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful BusinessesThe Phoenix Project: A Novel about IT, DevOps, and Helping Your Business WinThe Principles of Product Development Flow: Second Generation Lean Product DevelopmentGoldratt's Theory of Constraints: A Systems Approach to Continuous ImprovementStarting to Unit Test: Not as Hard as You ThinkWorking Effectively with Unit TestsWorking Effectively with Legacy CodeData Analysis with Open Source Tools: A Hands-On Guide for Programmers and Data ScientistsStatistics For DummiesStatistics II for DummiesDon't Make Me Think, Revisited: A Common Sense Approach to Web UsabilityRocket Surgery Made Easy: The Do-It-Yourself Guide to Finding and Fixing Usability ProblemsRussian Proverba single Excel workbook on GitHub
+Patterns of Enterprise Application Architecture
+
+Amazon.com
+Clean Architecture: A Craftsman's Guide to Software Structure and Design
+
+Amazon.com
+The Art of Computer Programming
+
+Amazon.com
+CODE: The Hidden Language of Computer Hardware and Software
+
+Amazon.com
+Agile Software Development: Principles, Patterns, and Practices
+
+Amazon.com
+Introduction to Algorithms
+
+Amazon.com
+Head First Design Patterns: A Brain-Friendly Guide
+
+Amazon.com
+Cracking the Coding Interview: 189 Programming Questions and Solutions
+
+Amazon.com
+Don't Make Me Think: A Common Sense Approach to Web Usability
+
+Wikipedia
+The Clean Coder: A Code of Conduct for Professional Programmers
+
+Amazon.com
+Soft Skills: The Software Developer's Life Manual
+
+Amazon.com
+Peopleware: Productive Projects and Teams
+
+Wikipedia
+Programming Pearls
+
+Amazon.com
+Working Effectively with Legacy Code
+
+Amazon.com
+The Mythical Man-Month: Essays on Software Engineering
+
+Amazon.com
+my review of The Mythical Man-Month
+Refactoring: Improving the Design of Existing Code
+
+Amazon.com
+Design Patterns: Elements of Reusable Object-Oriented Software
+
+Amazon.com
+Code Complete: A Practical Handbook of Software Construction
+
+Amazon.com
+The Pragmatic Programmer: From Journeyman to Master
+
+David Wall via Amazon.com
+
+Clean Code: A Handbook of Agile Software Craftsmanship
+
+Amazon.comDev.ToThe Tweeterbuy me a cup of coffeeSo Good They Can't Ignore YouThe Power of Habit: Why We Do What We Do in Life and BusinessThe Spirit of Kaizen: Creating Lasting Excellence One Small Step at a Time: Creating Lasting Excellence One Small Step at a TimeBadass: Making Users AwesomeYouTube summaryThe 7 Habits of Highly Effective People: Powerful Lessons in Personal ChangeThe Effective Executive: The Definitive Guide to Getting the Right Things DoneGreat at Work: How Top Performers Do Less, Work Better, and Achieve MoreThe Checklist Manifesto: How to Get Things RightThe Effective Engineer: How to Leverage Your Efforts In Software Engineering to Make a Disproportionate and Meaningful ImpactThe Pragmatic Programmer: From Journeyman to MasterCode Complete: A Practical Handbook of Software Construction, Second EditionClean Code: A Handbook of Agile Software CraftsmanshipCode Simplicity: The Fundamentals of SoftwareFacts and Fallacies of Software EngineeringRapid Development: Taming Wild Software SchedulesMaking Software: What Really Works, and Why We Believe ItMeasure What Matters: How Google, Bono, and the Gates Foundation Rock the World with OKRsTurn the Ship Around!: A True Story of Turning Followers into LeadersRapid Development: Taming Wild Software SchedulesEssential Scrum: A Practical Guide to the Most Popular Agile ProcessThe Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful BusinessesThe Phoenix Project: A Novel about IT, DevOps, and Helping Your Business WinThe Principles of Product Development Flow: Second Generation Lean Product DevelopmentGoldratt's Theory of Constraints: A Systems Approach to Continuous ImprovementStarting to Unit Test: Not as Hard as You ThinkWorking Effectively with Unit TestsWorking Effectively with Legacy CodeData Analysis with Open Source Tools: A Hands-On Guide for Programmers and Data ScientistsStatistics For DummiesStatistics II for DummiesDon't Make Me Think, Revisited: A Common Sense Approach to Web UsabilityRocket Surgery Made Easy: The Do-It-Yourself Guide to Finding and Fixing Usability ProblemsRussian Proverba single Excel workbook on GitHubPatterns of Enterprise Application ArchitectureClean Architecture: A Craftsman's Guide to Software Structure and DesignThe Art of Computer ProgrammingCODE: The Hidden Language of Computer Hardware and SoftwareAgile Software Development: Principles, Patterns, and PracticesIntroduction to AlgorithmsHead First Design Patterns: A Brain-Friendly GuideCracking the Coding Interview: 189 Programming Questions and SolutionsDon't Make Me Think: A Common Sense Approach to Web UsabilityWikipediaThe Clean Coder: A Code of Conduct for Professional ProgrammersSoft Skills: The Software Developer's Life ManualPeopleware: Productive Projects and TeamsWikipediaProgramming PearlsWorking Effectively with Legacy Code
+The Mythical Man-Month: Essays on Software Engineering
+
+
+my review of The Mythical Man-Month
+Refactoring: Improving the Design of Existing Code
+
+
+Design Patterns: Elements of Reusable Object-Oriented Software
+
+
+Code Complete: A Practical Handbook of Software Construction
+
+
+The Pragmatic Programmer: From Journeyman to Master
+
+David Wall via Amazon.com
+
+Clean Code: A Handbook of Agile Software Craftsmanship
+
+Dev.ToThe Tweeterbuy me a cup of coffeeSo Good They Can't Ignore YouThe Power of Habit: Why We Do What We Do in Life and BusinessThe Spirit of Kaizen: Creating Lasting Excellence One Small Step at a Time: Creating Lasting Excellence One Small Step at a TimeBadass: Making Users AwesomeYouTube summaryThe 7 Habits of Highly Effective People: Powerful Lessons in Personal ChangeThe Effective Executive: The Definitive Guide to Getting the Right Things DoneGreat at Work: How Top Performers Do Less, Work Better, and Achieve MoreThe Checklist Manifesto: How to Get Things RightThe Effective Engineer: How to Leverage Your Efforts In Software Engineering to Make a Disproportionate and Meaningful ImpactThe Pragmatic Programmer: From Journeyman to MasterCode Complete: A Practical Handbook of Software Construction, Second EditionClean Code: A Handbook of Agile Software CraftsmanshipCode Simplicity: The Fundamentals of SoftwareFacts and Fallacies of Software EngineeringRapid Development: Taming Wild Software SchedulesMaking Software: What Really Works, and Why We Believe ItMeasure What Matters: How Google, Bono, and the Gates Foundation Rock the World with OKRsTurn the Ship Around!: A True Story of Turning Followers into LeadersRapid Development: Taming Wild Software SchedulesEssential Scrum: A Practical Guide to the Most Popular Agile ProcessThe Lean Startup: How Today's Entrepreneurs Use Continuous Innovation to Create Radically Successful BusinessesThe Phoenix Project: A Novel about IT, DevOps, and Helping Your Business WinThe Principles of Product Development Flow: Second Generation Lean Product DevelopmentGoldratt's Theory of Constraints: A Systems Approach to Continuous ImprovementStarting to Unit Test: Not as Hard as You ThinkWorking Effectively with Unit TestsWorking Effectively with Legacy CodeData Analysis with Open Source Tools: A Hands-On Guide for Programmers and Data ScientistsStatistics For DummiesStatistics II for DummiesDon't Make Me Think, Revisited: A Common Sense Approach to Web UsabilityRocket Surgery Made Easy: The Do-It-Yourself Guide to Finding and Fixing Usability ProblemsRussian Proverba single Excel workbook on GitHubPatterns of Enterprise Application ArchitectureClean Architecture: A Craftsman's Guide to Software Structure and DesignThe Art of Computer ProgrammingCODE: The Hidden Language of Computer Hardware and SoftwareAgile Software Development: Principles, Patterns, and PracticesIntroduction to AlgorithmsHead First Design Patterns: A Brain-Friendly GuideCracking the Coding Interview: 189 Programming Questions and SolutionsDon't Make Me Think: A Common Sense Approach to Web UsabilityWikipediaThe Clean Coder: A Code of Conduct for Professional ProgrammersSoft Skills: The Software Developer's Life ManualPeopleware: Productive Projects and TeamsWikipediaProgramming PearlsWorking Effectively with Legacy CodeThe Mythical Man-Month: Essays on Software Engineeringmy review of The Mythical Man-MonthRefactoring: Improving the Design of Existing CodeDesign Patterns: Elements of Reusable Object-Oriented SoftwareCode Complete: A Practical Handbook of Software Construction
+The Pragmatic Programmer: From Journeyman to Master
+
+David Wall via Amazon.com
+
+Clean Code: A Handbook of Agile Software Craftsmanship
+
+Dev.ToThe Tweeterbuy me a cup of coffee
+
+
+  The Usual Suspects
+
+
+
+  1. Practical Object-Oriented Design: An Agile Primer Using Ruby
+
+
+
+  2. Test-Driven Development with Python (aka, Obey the Testing Goat)
+
+
+
+  3. Functional Programming in C#
+
+
+
+  4. 24 Deadly Sins of Software Security: Programming Flaws and How to Fix Them
+
+
+
+  5. Agile Testing: A Practical Guide for Testers and Agile Teams
+
+
+
+  Conclusion
+what are your must-read books about the tech industry (in general), computer science, programming, web dev, software engineering, digital culture and so forth?Software & Web DevProgressive Web AppsCamel in ActionProgramming PearlsCracking the Coding Interview: 150 Programming Questions and SolutionsMathA Mind for Numbers: How to Excel at Math and Science (Even If You Flunked Algebra)Tech Industry und The Digital & Information Age in GeneralChaos Monkeys: Inside the Silicon Valley money machineWeapons of Math DestructionPax TechnicaThe Innovators: How a Group of Hackers, Geniuses, and Geeks Created The Digital RevolutionThis Machine Kills SecretsThe Open OrganisationSuperintelligence: Paths, Dangers, StrategiesThe Shallows: What the Internet is Doing to Our BrainsThe Master Switch: The Rise and Fall of Information EmpiresDataWe Are Data: Algorithms and The Making of Our Digital SelvesBeing Digital CitizensManagement and LeadershipBrave LeadershipThe Greatest GiftHigh Performance HabitsPeopleware: Productive Projects and TeamsOtherEvent Driven: How to Run Memorable Tech ConferencesRobot-Proof - Higher Education in the age of Artificial Intelligence
+
+
+  Extreme Ownership: How U.S. Navy SEALs Lead and Win
+
+
+
+  Scrum: The Art of Doing Twice the Work in Half the Time
+
+
+
+  The 5 Second Rule
+
+
+
+  Steve Jobs
+
+
+
+  Quiet: The Power of Introverts in a World That Can't Stop Talking
+
+
+
+  The Practicing Mind: Developing Focus and Discipline in Your Life – Master Any Skill or Challenge by Learning to Love the Process
+
+
+
+  Algorithms to Live By: The Computer Science of Human Decisions
+
+
+
+  Simple Rules: How to Thrive in a Complex World
+
+
+
+  Zero to One: Notes on Startups, or How to Build the Future
+
+
+
+  Make It Stick: The Science of Successful Learning
+
+
+
+  The Innovators: How a Group of Hackers, Geniuses, and Geeks Created the Digital Revolution
+
+
+
+  The Tipping Point: How Little Things Can Make a Big Difference
+
+
+
+  Extreme Ownership: How U.S. Navy SEALs Lead and Win
+
+
+
+  Scrum: The Art of Doing Twice the Work in Half the Time
+
+
+
+  The 5 Second Rule
+
+
+
+  Steve Jobs
+
+
+
+  Quiet: The Power of Introverts in a World That Can't Stop Talking
+
+
+
+  The Practicing Mind: Developing Focus and Discipline in Your Life – Master Any Skill or Challenge by Learning to Love the Process
+
+
+
+  Algorithms to Live By: The Computer Science of Human Decisions
+
+
+
+  Simple Rules: How to Thrive in a Complex World
+
+
+
+  Zero to One: Notes on Startups, or How to Build the Future
+
+
+
+  Make It Stick: The Science of Successful Learning
+
+
+
+  The Innovators: How a Group of Hackers, Geniuses, and Geeks Created the Digital Revolution
+
+
+
+  The Tipping Point: How Little Things Can Make a Big Difference
+@kyleshevlin@jlengstorf@jhooks@kentcdodds@wesbos@stolinski@shanselman@SachaGreif
+
+
+
+
+
+Code: The Hidden Language of Computer Hardware and SoftwareClean CodeCracking the Coding InterviewCode CompleteHow to Win Friends and Influence People
+
+
+  The Clean Coder: A Code of Conduct for Professional Programmers
+
+
+
+  The Art of Readable Code
+
+
+
+  Don’t Make Me Think, Revisited: A Common Sense Approach to Web Usability
+
+
+
+  JavaScript: The Good Parts
+
+
+
+  Even Faster Web Sites
+The Developer's Dungeonhere!Clean Code: A Handbook of Agile Software Craftsmanship (Robert C. Martin)The Pragmatic Programmer, your journey to mastery (Dave Thomas and Andrew Hunt)The Clean Coder: A Code of Conduct for Professional Programmers (Robert C. Martin)Working Effectively With Legacy Code (Michael Feathers)Test Driven Development By Example (Kent Beck)Refactoring: Improving the Design of Existing Code (Martin Fowler)Adaptive Code: Agile coding with design patterns and SOLID principles (Gary McLean Hall)Clean Architecture: A Craftsman's Guide to Software Structure and Design 
+ (Robert C. Martin)Structure and Interpretation of Computer Programs (Harold Abelson and
+Gerald Jay Sussman
+with Julie Sussman)Design Patterns: Elements of Reusable Object-Oriented Software (Gang of Four)Head First Design Patterns: A Brain-Friendly Guide (Eric Freeman and Elisabeth Robson)
+
+The Clean Coder: A Code of Conduct for Professional Programmers by Robert C. Martin http://amzn.to/2EqFxlb
+Compared to Law, Medicine, Engineering, Accounting, Programming is a relatevely easy field to enter. There're countless success stories of self-thought programmers. This book introduces to what a Professional Programmer is. The author shows how to approach software development with honor, self-respect, and pride; work well and work clean; communicate and estimate faithfully; face difficult decisions with clarity and honesty; and understand that deep knowledge comes with a responsibility to act.
+
+Clean Code: A Handbook of Agile Software Craftsmanship by Robert C. Martin http://amzn.to/2ssThWJ
+Even bad code can function. But if code isn't clean, it can bring a development organization to its knees. Every year, countless hours and significant resources are lost because of poorly written code. But it doesn't have to be that way. " Another book by Uncle Bob, it is an opinionated book, but full of wonderful resources and advice on how to improve your code.
+
+Clean Architecture: A Craftsman's Guide to Software Structure and Design by Robert C. Martin http://amzn.to/2Bsq7dd
+Yet another book by Uncle Bob. This is an anticipated guide to Software Architecture. Soon to be a best seller like the other Clean Series. I believe the best way to improve your skill is learning from the best in the industry. Martin's half a century of experience is imprinted for us to study and apply in our trade.
+
+Head First Design Patterns: A Brain-Friendly Guide http://amzn.to/2Hd6x57
+This is a great book for mastering The Design Patterns. Clear explanation, good examples and just practical.
+
+Peopleware: Productive Projects and Teams http://amzn.to/2sxPBDs
+IT management is your ultimate goal? Read this book! Written in the 80s,it outlines the major issues with current management practices in software development field. It's amazing that most companies still make the same mistakes. If you won't move into management, at least this book will help you ask the right questions and look for red flags next time you're looking for a new job. Personally, I cannot chuckle inside when I hear "Open space office"
+
+The Algorithm Design Manual by Steven S Skiena  http://amzn.to/2BszJ7S
+Read this book if you want to work for Google, Microsoft, Amazon or any company that loves to drill their candidates about Algorithms. Seriously, this is a must read for any programmer. The foundation for any efficient code.
+
+Agile Software Development, Principles, Patterns, and Practices by Robert C. Martin http://amzn.to/2CiZGDT
+The book covers Design Paterns just like the Head First Design Patterns, but this book goes deeper in the world of OOP, software architecture and Agile Methodology.
+
+Working Effectively with Legacy Code by Michael Feathers http://amzn.to/2HaEKlY
+Legacy Code - You can hate it, but you cannot kill it. All code will be legacy at the end ;) Unless you're a hobby programmer, you will end up working with it. You will pull your hair out because of it. This book is sanity shield that we all need. Good Read!
+
+Head First Object-Oriented Analysis and Design http://amzn.to/2CiYsZe
+Ability to analyze and design solid OOP systems is science and art. The programmer who can take upon a role of an architect is worth its weight in gold. This is a good introduction book to OOP
+
+The Pragmatic Programmer: From Journeyman to Master by Andrew Hunt and David Thomas http://amzn.to/2EHdOfk
+This book is a great read to fill the gaps that have been missed by all other books on this list. The authors will show you what it takes to master our trade, and hopefully they will equipe you with skill and idea to avoid the common pitfalls.
+
+
+  1. The Goal: A Process of Ongoing Improvement
+
+
+
+  2. It's Not Luck
+
+
+
+  3. Velocity: Combining Lean, Six Sigma and the Theory of Constraints to Achieve Breakthrough Performance
+
+
+
+  4. The Phoenix Project: A Novel about IT, DevOps, and Helping Your Business Win
+
+
+
+  How these novels are going to help you become a better programmer
+
+
+
+  Recommendations for reading
+
+
+
+  Takeaways
