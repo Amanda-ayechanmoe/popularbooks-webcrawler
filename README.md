@@ -10,4 +10,4 @@ All the data are crawled from dev.to
   
 # Result :bar_chart:
 
-<img src="https://github.com/Amanda-ayechanmoe/popularbooks-webcrawler/blob/master/visualization/barGraph.PNG" width="500"/>
+<img src="https://github.com/Amanda-ayechanmoe/popularbooks-webcrawler/blob/master/visualization/barGraph.PNG" width="300"/>
